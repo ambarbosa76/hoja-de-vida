@@ -1,0 +1,25 @@
+.field {
+    width: 800px;
+    height: 800px;
+    border:  2px solid;
+    margin: auto;
+    display: flex;
+    
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}

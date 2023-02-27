@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <title>document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+        <div class="config">
+            <span></span>
+        </div>
+        <span>header</span>
+    </div>
+    <div class="main">
+        <div class="content">
+         <div class="img-container white-border">
+            <img scr="descarga.gif" alt>
+         </div>   
+         <div class="input white-border">
+            <input 
+         </div>
+        </div>
+    </div>
+</body>
+</html>

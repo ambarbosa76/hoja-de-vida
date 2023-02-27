@@ -1,0 +1,57 @@
+
+h1 {
+    color:red
+}
+p {
+    font-size: 24px;
+    color:#c29f8e;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* #name {
+    border: 10px solid palevioletred;
+} */
+
+
+.descripcion {
+    font-size: 24px;
+    color:#e61111; 
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.parrafo {
+    font-size: 16px;
+    color:red  
+}
+.texto {
+    color: blue;    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card {
+    border: 2px solid blue;
+    width: 600px;
+    height: 400px;
+    box-shadow: 8px 9px 13px 0px rgba(0,0,0,0.75);
+    border-radius: 15px;
+    
+}
+.img-content {
+    border: 2px solid red;   
+    display: flex;
+    justify-content:center;
+}
+.img {
+    width: 200px;
+}
+.content {
+    border: 2px solid green;
+    width: 600px;
+}
+.tag {
+    display: inline-block;
+    border: 1px solid yellow;
+    font-size: 12px;
+    background: rgb(238, 224, 25);
+    padding: 20PX 30px;
+    margin-left: 30px;
+    border-radius:10px;    
+}
